@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WooliesX.TechChallenge</name>
+    </assembly>
+    <members>
+        <member name="T:WooliesX.TechChallenge.Controllers.SortController">
+            <summary>
+            Sort controller 
+            </summary>
+        </member>
+        <member name="M:WooliesX.TechChallenge.Controllers.SortController.#ctor(WoooliesX.Service.ISortService)">
+            <summary>
+            DI for sort controller
+            </summary>
+            <param name="sortService"></param>
+        </member>
+        <member name="T:WooliesX.TechChallenge.Controllers.TrolleyTotalController">
+            <summary>
+            controller for computing trolley total
+            </summary>
+        </member>
+        <member name="M:WooliesX.TechChallenge.Controllers.TrolleyTotalController.#ctor(WoooliesX.Service.ITrolleyService)">
+            <summary>
+            Dependency injection for troller controller
+            </summary>
+            <param name="trolleyService"></param>
+        </member>
+        <member name="T:WooliesX.TechChallenge.Controllers.UserController">
+            <summary>
+            Controller for user response
+            </summary>
+        </member>
+        <member name="M:WooliesX.TechChallenge.Controllers.UserController.#ctor(WoooliesX.Service.IUserService)">
+            <summary>
+            Dependency injection for User controller
+            </summary>
+            <param name="userResponse"></param>
+        </member>
+        <member name="T:WooliesX.TechChallenge.Program">
+            <summary>
+            
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,12 @@
+C:\Users\bharathi.rama\source\repos\WooliesX.TechChallenge\WoooliesX.Service\bin\Debug\netcoreapp2.2\WoooliesX.Service.deps.json
+C:\Users\bharathi.rama\source\repos\WooliesX.TechChallenge\WoooliesX.Service\bin\Debug\netcoreapp2.2\WoooliesX.Service.dll
+C:\Users\bharathi.rama\source\repos\WooliesX.TechChallenge\WoooliesX.Service\bin\Debug\netcoreapp2.2\WoooliesX.Service.pdb
+C:\Users\bharathi.rama\source\repos\WooliesX.TechChallenge\WoooliesX.Service\bin\Debug\netcoreapp2.2\WooliesX.Model.dll
+C:\Users\bharathi.rama\source\repos\WooliesX.TechChallenge\WoooliesX.Service\bin\Debug\netcoreapp2.2\WooliesX.Model.pdb
+C:\Users\bharathi.rama\source\repos\WooliesX.TechChallenge\WoooliesX.Service\obj\Debug\netcoreapp2.2\WoooliesX.Service.csprojAssemblyReference.cache
+C:\Users\bharathi.rama\source\repos\WooliesX.TechChallenge\WoooliesX.Service\obj\Debug\netcoreapp2.2\WoooliesX.Service.csproj.CoreCompileInputs.cache
+C:\Users\bharathi.rama\source\repos\WooliesX.TechChallenge\WoooliesX.Service\obj\Debug\netcoreapp2.2\WoooliesX.Service.AssemblyInfoInputs.cache
+C:\Users\bharathi.rama\source\repos\WooliesX.TechChallenge\WoooliesX.Service\obj\Debug\netcoreapp2.2\WoooliesX.Service.AssemblyInfo.cs
+C:\Users\bharathi.rama\source\repos\WooliesX.TechChallenge\WoooliesX.Service\obj\Debug\netcoreapp2.2\WoooliesX.Service.csproj.CopyComplete
+C:\Users\bharathi.rama\source\repos\WooliesX.TechChallenge\WoooliesX.Service\obj\Debug\netcoreapp2.2\WoooliesX.Service.dll
+C:\Users\bharathi.rama\source\repos\WooliesX.TechChallenge\WoooliesX.Service\obj\Debug\netcoreapp2.2\WoooliesX.Service.pdb
